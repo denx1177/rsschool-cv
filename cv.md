@@ -2,14 +2,14 @@
 
 ## Junior Frontend Developer
 
-## Contact Information
+### Contact Information
 ***
 Telegram https://t.me/d1177  
 ***
 
 I want to program well, and I put all my strength and interest into it.  
 
-##Skills and Proficiency:
+## Skills and Proficiency:
 
 - HTML5, CSS3
 - Java
