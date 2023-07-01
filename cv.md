@@ -1,10 +1,22 @@
-# Bogdanov Denis CV
+# Bogdanov Denis 
 
+## Junior Frontend Developer
 
-Bogdanov Denis.  
-telegram https://t.me/d1177  
+## Contact Information
+***
+Telegram https://t.me/d1177  
+***
+
 I want to program well, and I put all my strength and interest into it.  
-HTML CSS Java JavaScript Git.  
+
+##Skills and Proficiency:
+
+- HTML5, CSS3
+- Java
+- JavaScript
+- Git, GitHub
+- VS Code, IntelliJ IDEA.  
+***
 ```
 function multiply(a, b){
   return a * b
